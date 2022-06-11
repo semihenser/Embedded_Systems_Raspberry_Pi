@@ -1,5 +1,10 @@
 # Embedded Systems with Raspberry Pi Pico
 This repo contains my embedded system experiments with raspberry pi pico.
+
+
+Pay attention to the pin positions on the program and breadboard.
+
+
 1) LED blink
 2) Traffic Light
 3) KITT (car)
