@@ -11,3 +11,5 @@ This repo contains my embedded system experiments with raspberry pi pico.
 9) LCD
 10) Buzzer
 11) DHT sensor
+12) LDR sensor
+13) Servo motor
