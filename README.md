@@ -14,3 +14,4 @@ This repo contains my embedded system experiments with raspberry pi pico.
 12) LDR sensor
 13) Servo motor
 14) Soil moisture sensor
+15) Bluetooth
