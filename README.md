@@ -10,3 +10,4 @@ This repo contains my embedded system experiments with raspberry pi pico.
 8) 7 Segment Display
 9) LCD
 10) Buzzer
+11) DHT sensor
